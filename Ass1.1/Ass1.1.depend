@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\deeznuts\desktop\ass1.1\main.cpp
+	<iostream>
+
+1519920258 source:c:\users\deeznuts\desktop\ass1.1\complex.cpp
+	<iostream>
+	<fstream>
+	"Complex.h"
+
+1519920378 c:\users\deeznuts\desktop\ass1.1\complex.h
+
+1519919525 source:c:\users\deeznuts\desktop\ass1.1\testcomplex.cpp
+	<iostream>
+	<fstream>
+	"Complex.h"
+	<stdlib.h>
+
+1519920694 source:c:\users\deeznuts\desktop\jacobs\oop ii\ass1.1\complex.cpp
+	<iostream>
+	<fstream>
+	"Complex.h"
+
+1519920694 c:\users\deeznuts\desktop\jacobs\oop ii\ass1.1\complex.h
+
+1519920780 source:c:\users\deeznuts\desktop\jacobs\oop ii\ass1.1\testcomplex.cpp
+	<iostream>
+	<fstream>
+	"Complex.h"
+

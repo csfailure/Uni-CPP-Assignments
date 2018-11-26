@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\deeznuts\desktop\testa4_6\main.cpp
+	<iostream>
+
+1521259329 source:c:\users\deeznuts\desktop\testa4_6\access.cpp
+	<iostream>
+	<map>
+	<set>
+	<algorithm>
+	"Access.h"
+
+1521258637 c:\users\deeznuts\desktop\testa4_6\access.h
+	<iostream>
+	<map>
+	<set>
+	<algorithm>
+
+1521260210 source:c:\users\deeznuts\desktop\testa4_6\testaccess.cpp
+	<iostream>
+	<set>
+	<map>
+	<algorithm>
+	"Access.h"
+

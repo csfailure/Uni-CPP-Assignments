@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\deeznuts\desktop\testa6_3\main.cpp
+	<iostream>
+
+1521391762 source:c:\users\deeznuts\desktop\testa6_3\testfraction.cpp
+	<iostream>
+	<exception>
+	<sstream>
+	<algorithm>
+	"Fraction.h"
+	<string>
+
+1521391143 c:\users\deeznuts\desktop\testa6_3\fraction.h
+	<iostream>
+
+1521387410 source:c:\users\deeznuts\desktop\testa6_3\fraction.cpp
+	<iostream>
+	<cstdlib>
+	<sstream>
+	<string>
+	"Fraction.h"
+

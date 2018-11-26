@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\deeznuts\desktop\ass2.3\main.cpp
+	<iostream>
+
+1520372749 source:c:\users\deeznuts\desktop\ass2.3\teststack.cpp
+	<iostream>
+	<string>
+	"Stack.h"
+
+1520372938 c:\users\deeznuts\desktop\ass2.3\stack.h
+	<iostream>
+	<string>
+
+1520376840 source:c:\users\deeznuts\desktop\jacobs\oop ii\ass2.3\teststack.cpp
+	<iostream>
+	<string>
+	"Stack.h"
+
+1520377123 c:\users\deeznuts\desktop\jacobs\oop ii\ass2.3\stack.h
+	<iostream>
+	<string>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\deeznuts\desktop\ass2.4\main.cpp
+	<iostream>
+
+1520411001 source:c:\users\deeznuts\desktop\ass2.4\testlinkedlist.cpp
+	<iostream>
+	"LinkedList.h"
+
+1520411060 c:\users\deeznuts\desktop\ass2.4\linkedlist.h
+	<iostream>
+

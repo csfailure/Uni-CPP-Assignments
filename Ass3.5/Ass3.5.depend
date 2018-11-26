@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1520875078 source:c:\users\deeznuts\desktop\ass3.5\testwindgauge.cpp
+	<iostream>
+	"WindGauge.h"
+
+1520875034 c:\users\deeznuts\desktop\ass3.5\windgauge.h
+	<iostream>
+	<deque>
+
+1520875034 source:c:\users\deeznuts\desktop\ass3.5\windgauge.cpp
+	<iostream>
+	<deque>
+	"WindGauge.h"
+
